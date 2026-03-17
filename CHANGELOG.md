@@ -1,3 +1,29 @@
+#### 5.0.0-beta.4: Beta Release
+
+ - Various UX tweaks and tidy ups
+ - Renable click to close for edit dialog (#5567) @knolleary
+ - Improve the `user-select` CSS code usage (#5565) @bonanitech
+ - Tidy up modal shade appearance (#5566) @knolleary
+ - Scale highlight based on workspace zoom (#5563) @knolleary
+ - Ensure disabled tab has fully dashed border (#5564) @knolleary
+ - Add error handling for markdown parser (#5560) @knolleary
+ - Update reveal node styling (#5562) @knolleary
+ - Minor change to treeList select/expand behaviour (#5556) @knolleary
+ - Handle shift-scroll more robustly (#5559) @knolleary
+ - Remove obsolete vendor-prefixed CSS properties (#5554) @bonanitech
+ - Include sidebar width in position calculation for reveal function (#5555) @knolleary
+ - [5377] UX: Ensure menus handle vertical overflow (#5448) @n-lark
+ - Account for sidebar width when calculating zoom-to-fit scale (#5551) @knolleary
+ - Fix fade effect for tab labels that overflow (#5552) @bonanitech
+ - Better touch handling for submenus (#5550) @knolleary
+ - Improve workspace footer handling of smaller screen widths (#5549) @knolleary
+ - [5540] UX: handle node-red-dashboard css poisoning (#5548) @n-lark
+ - [5522] UX: vertical scrollbar should not overlap subflow toolbar (#5537) @n-lark
+ - [5523] UX: Cursor events in workspace get interrupted when over status/scroll bars (#5539) @n-lark
+ - [5521] UX: Selecting non-flow object in Explorer causes Info to go blank (#5538) @n-lark
+ - [5525] UX: Misaligned first tab (#5536) @n-lark
+ - Sync 4.1.7 to dev branch (#5531) @knolleary
+
 #### 5.0.0-beta.3: Beta Release
 
  - UX updates for beta 3 (#5498) @knolleary
